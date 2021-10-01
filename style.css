@@ -3,8 +3,8 @@ body {
     min-height: 400px;
     background-image: url("https://ichef.bbci.co.uk/news/800/cpsprodpb/82A2/production/_111124433_dolarreal.jpg");
     background-color: #000000;
-    background-size: 100vh;
-    background-position: center;
+    background-size: 75vh;
+    background-position: 575px 300px;
     background-repeat: no-repeat;
   }
   
